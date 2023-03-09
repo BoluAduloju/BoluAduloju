@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Boluwatife! 👋
+
+A software engineer focusing on creating interactive and amazing products on the web. capable of indentifying opportunities to improve the user experience as well as building a scalable product.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boluaduloju&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boluaduloju&layout=compact)](https://github.com/boluaduloju/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,ts,nodejs,git&theme=light)](https://skillicons.dev)
+
+
 
 <!--
 **BoluAduloju/BoluAduloju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
