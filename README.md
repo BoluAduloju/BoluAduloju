@@ -1,6 +1,6 @@
 ### Hi there, I'm Boluwatife! 👋
 
-A **Frontend Engineer** focusing on creating functional, user-friendly and visually captivating applications and products on the web. capable of indentifying opportunities to improve the user experience as well as scaling the product to solve business problem.
+A **Frontend Engineer** focusing on creating functional, user-friendly and visually captivating applications and products on the web. capable of identifying opportunities to improve the user experience as well as scaling the product to solve business problem.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
