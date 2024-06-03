@@ -21,6 +21,7 @@ A **Frontend Engineer** focusing on creating functional, user-friendly and visua
  
   
 - ⚙️ &nbsp;
+
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql&logoColor=cc6699)
