@@ -12,7 +12,7 @@ A **Frontend Engineer** focusing on creating functional, user-friendly and visua
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=cc6699)
    ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=Tailwindcss)
-    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+    ![React](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
    ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
    ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=1572B6)
